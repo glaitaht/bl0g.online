@@ -31,6 +31,7 @@ Project's admin side;
 - Used only 2 controller and 1 model
 - Hard to track a route
 - After delete category, there ll be still posts to show belongs to that category (bug) [To fix that delete posts and comments]
+- no naming convention, no comment lines
 
 ## <p align="center">About Me</p>
 
